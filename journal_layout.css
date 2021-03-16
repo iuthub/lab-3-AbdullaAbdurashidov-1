@@ -1,0 +1,35 @@
+
+#main{
+  border: 10px solid white;
+  background-color: white;
+}
+body{
+  margin-left: 10%;
+  margin-right: 10%;
+  background-image: url(https://i.pinimg.com/originals/bf/16/28/bf16282c42be313dcd6edfa853e7bbd4.gif);
+}
+
+#main div.head{
+  border: 5px solid red;
+  background-color: #A8F0F0;
+  text-align: right;
+}
+
+#main div.head h2{
+  font-size: 14pt;
+}
+
+#main div.paragraph{
+  border: 4px solid #C2E9E9;
+  background-color: #E8FBFB;
+  padding: 5px;
+  margin-top: 10px;
+}
+
+#main div.paragraph img{
+  float: right;
+}
+
+#main .paragraph .head2 span{
+  border-bottom: 2px solid blue;
+}
